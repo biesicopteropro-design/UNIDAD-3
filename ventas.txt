@@ -1,0 +1,6 @@
+cachucha de fierro|200.0|10|2000.0
+chaqueton de fierro|500.0|5|2500.0
+cachucha del partido verde|350.0|10|3500.0
+cachucha del partido verde|350.0|20|7000.0
+mochila de prinsesitas|10.0|4|40.0
+tenis de marrano|666.0|5|3330.0
