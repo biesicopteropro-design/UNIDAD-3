@@ -1,0 +1,7 @@
+1|cachucha de fierro|200.00|gorras
+12|chaqueton de fierro|500.00|chamarras
+123|cachucha del partido verde|350.00|gorras
+1234|mochila de prinsesitas|10.00|mochilas
+12345|tenis de marrano|666.00|zapatos
+123456|zapatos de GUCCI|67.00|zapatos
+12345678|botas de piel de  moyote|2000.00|zapatos
